@@ -17,3 +17,4 @@ Recommendable  Games
 - Silent Hill
 - Metal Gear
 - Final Fantasy
+- Doom
