@@ -30,3 +30,7 @@ Recommendable  Games
 - Metal Gear
 - Final Fantasy
 - Doom
+- Cyberpunk 2077
+- Life is Strange
+- Metro
+- Tomb Raider
