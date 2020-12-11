@@ -35,3 +35,5 @@ Recommendable  Games
 - Metro
 - Tomb Raider
 - Assassins Creed
+- Ghost of Tsushima
+- Fallout
