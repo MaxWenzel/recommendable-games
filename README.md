@@ -37,3 +37,5 @@ Recommendable  Games
 - Assassins Creed
 - Ghost of Tsushima
 - Fallout
+- Hitman
+- Max Payne
