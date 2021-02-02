@@ -39,3 +39,5 @@ Recommendable  Games
 - Fallout
 - Hitman
 - Max Payne
+- Life is strange
+- Detroit become human
