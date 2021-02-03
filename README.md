@@ -41,3 +41,8 @@ Recommendable  Games
 - Max Payne
 - Life is strange
 - Detroit become human
+- Deus Ex
+- Mass Effect
+- Star Wars: Knights of the Old Republic 
+- Skyrim
+- Ghost Recon Wildlands
