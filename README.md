@@ -46,3 +46,4 @@ Recommendable  Games
 - Star Wars: Knights of the Old Republic 
 - Skyrim
 - Ghost Recon Wildlands
+- Days Gone
