@@ -47,3 +47,4 @@ Recommendable  Games
 - Skyrim
 - Ghost Recon Wildlands
 - Days Gone
+- Stalker
