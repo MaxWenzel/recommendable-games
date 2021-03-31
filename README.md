@@ -39,7 +39,8 @@ Recommendable  Games
 - Fallout
 - Hitman
 - Max Payne
-- Life is strange
+- The Witcher
+- Watch Dogs
 - Detroit become human
 - Deus Ex
 - Mass Effect
