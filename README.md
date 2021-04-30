@@ -48,4 +48,7 @@ Recommendable  Games
 - Skyrim
 - Ghost Recon Wildlands
 - Days Gone
+- Just cause
+- The Division
 - Stalker
+- Homefront
