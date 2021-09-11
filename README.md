@@ -52,3 +52,5 @@ Recommendable  Games
 - The Division
 - Stalker
 - Homefront
+- Death Stranding
+- Control
