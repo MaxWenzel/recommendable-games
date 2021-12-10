@@ -54,3 +54,6 @@ Recommendable  Games
 - Homefront
 - Death Stranding
 - Control
+- Doom Eternal
+- Chorus
+
