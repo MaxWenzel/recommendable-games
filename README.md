@@ -5,6 +5,7 @@ Recommendable  Games
 
 - Heavy Rain
 - Ori and the Will of the Wisps
+- Journey
 
 ##  Best of
 
@@ -56,4 +57,5 @@ Recommendable  Games
 - Control
 - Doom Eternal
 - Chorus
+- Elden Ring
 
