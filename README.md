@@ -59,4 +59,4 @@ Recommendable  Games
 - Chorus
 - Elden Ring
 - A Plague Tale - Innocence
-
+- A Plague Tale - Requiem
