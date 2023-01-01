@@ -58,4 +58,5 @@ Recommendable  Games
 - Doom Eternal
 - Chorus
 - Elden Ring
+- A Plague Tale - Innocence
 
